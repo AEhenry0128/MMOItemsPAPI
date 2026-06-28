@@ -1,0 +1,9 @@
+name: MMOItemsPAPI
+version: '${version}'
+main: io.aehenry.mmoitempapi.main
+
+depend:
+  - PlaceholderAPI
+  - MMOItems
+  - MythicLib
+  - MythicMobs
